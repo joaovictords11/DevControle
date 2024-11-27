@@ -63,7 +63,7 @@ const FormTicket = ({ customer }: FormTicketProps) => {
       )}
       <button
         type="submit"
-        className="bg-blue-500 rounded-md w-full h-11 px-2 text-white font-bold hover:bg-blue-600 duration-200"
+        className="bg-blue-500 mt-4 rounded-md w-full h-11 px-2 text-white font-bold hover:bg-blue-600 duration-200"
       >
         Cadastrar
       </button>
